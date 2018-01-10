@@ -299,8 +299,8 @@ CHECK_PROXY={'function':'checkProxy'}#{'function':'baidu_check'}
 ## TODO
 1.添加squid代理，简化爬虫配置
 <br/>
-
-
+## 更新进度
+将 web.py 更新为flask 更通用
 ## 更新进度
 -----------------------------2017-4-6----------------------------
 <br/>
